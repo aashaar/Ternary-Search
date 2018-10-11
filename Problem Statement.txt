@@ -1,0 +1,9 @@
+Write a RECURSIVE program to do Ternary Search.
+Ternary search is just like Binary search:
+	In Binary Search, the list is divided into 2 parts. Similarly, in Ternary Search the list is divided into 3 parts instead of 2.
+Tasks:
+a. Create an array of at least 15 values in sorted order - descending.
+b. do tertiary search to find an item.  I,e in stead of dividing the list into 2 halves, divide it into 3 parts.
+c. run the program to find an existing item in the list
+d. Second time run the program to try and find a non existing item in the list.
+e. submit code and screen shot of execution.
